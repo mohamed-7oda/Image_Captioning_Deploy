@@ -6,7 +6,7 @@
 ![HuggingFace](https://img.shields.io/badge/Deployed-Huggingface-blueviolet)
 
 ## 🚀 About the Project
-**Project Link** : https://huggingface.co/spaces/mohamed7oda/image-captioning?logs=container
+**Project Link** : https://huggingface.co/spaces/mohamed7oda/image-captioning
 
 **CaptionGo.AI** is an end-to-end deep learning project for automatic image captioning.  
 Given an image, the model generates a natural language description using a Transformer decoder architecture.
