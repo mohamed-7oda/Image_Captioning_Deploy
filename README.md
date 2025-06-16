@@ -51,7 +51,9 @@ This project was developed by:
 
 - Mohamed Ehab  
 - Youssief Seliem  
-- Amin Gamal  
+- Amin Gamal
+- Mostafa Adam
+- Mohamed Mahmoud
 
 With good vibes, too much trial-and-error, and a little GPU patience ⚡
 
